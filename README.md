@@ -7,7 +7,7 @@ Link do projeto: https://consultacnpj2023.netlify.app/
 ## Funcionalidades
 
 - Consulta de CNPJ
-- Exibição de informações básicas sobre a empresa, incluindo nome, endereço, atividade principal e data de abertura.
+- Exibição de informações básicas sobre a empresa, incluindo endereço, telefone, e-mail e outras informações.
 
 ## Tecnologias utilizadas
 
